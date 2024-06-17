@@ -17,5 +17,5 @@ let charCount = {};
 }
 	return null;
 }
-const input = propt("Enter a string");
+const input = prompt("Enter a string");
 alert(firstNonRepeatedChar(input)); 
